@@ -1,7 +1,7 @@
 # Shield-Insurance
 
 # Presentation video link : https://youtu.be/b8wrw_rqwlU
-# Live Dashboard Link : 
+# Live Dashboard Link : https://lnkd.in/gSbt6Bsr
 
 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐢𝐨𝐧 🎉🎉
 
@@ -26,9 +26,9 @@ My task was to help Shield Insurance company in making data-driven decisions by 
 ✅ POL2005HEL Policy brought the maximum Revenue for the company.
 
 
-🔗 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤: https://lnkd.in/g9b3X8iB
-🔗 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐋𝐢𝐧𝐤: https://lnkd.in/gG5dEwme
-🔗 𝐆𝐢𝐭𝐇𝐮𝐛 𝐋𝐢𝐧𝐤: https://lnkd.in/g2hvUeB6
+🔗 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤: https://lnkd.in/gSbt6Bsr
+🔗 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐋𝐢𝐧𝐤: https://youtu.be/b8wrw_rqwlU
+🔗 𝐆𝐢𝐭𝐇𝐮𝐛 𝐋𝐢𝐧𝐤: https://github.com/vamshibarat/Shield-Insurance.git
 
 
 🙏🏻 My sincere gratitude to Dhaval Patel sir, Hemanand Vadivel sir, AtliQ Technologies and the entire Codebasics team for their support and the incredible learning experience in data analyst bootcamp and virtual internship.
