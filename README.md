@@ -2,7 +2,6 @@
 
 # Presentation video link : https://youtu.be/b8wrw_rqwlU
 # Live Dashboard Link : https://lnkd.in/gSbt6Bsr
-
 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐢𝐨𝐧 🎉🎉
 
 🙋🏻‍♂️Hey Everyone, 
